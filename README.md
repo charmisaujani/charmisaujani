@@ -5,7 +5,7 @@ Currently working in the financial sector, where I apply my expertise in data an
 
 #### **🛠 Skills and Technologies:**
 - **Languages:** Python, SQL, R
-- **Focus Areas:** Data Engineering
+- **Focus Areas:** Quantitative analysis
 
 #### **📚 Learning:**
 - Continuously exploring new technologies and expanding my knowledge.
